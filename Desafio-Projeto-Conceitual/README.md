@@ -1,8 +1,6 @@
-# Desafio-Primeiro-Repositorio
+# Desafio Criando um Projeto conceitual do zero
 
-Este é o primeiro repositório que envio para a internet.
-
-Este também é um desafio do curso de Database Experience da Dio.
+Este é o terceiro desafio do Bootcamp Database Experience, dessa vez o desafio foi: criar um projeto conceitual do zero sobre uma oficina.
 
 ## Link dio:
 [Dio](https://web.dio.me/home)
